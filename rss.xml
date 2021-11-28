@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Future Fintech EyE - 金融の未来を語るブログ</title>
+        <link>https://future-fintech.github.io</link>
+        <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
+        
+        <item>
+            <title>「​東京₋ロンドン グリーンファイナンスセミナー2021」 に登壇します</title>
+            <link>https://future-fintech.github.io/articles/20211126</link>
+            <description>グリーンファイナンスセミナーのご案内です。</description>
+            <pubDate>Fri, 26 Nov 2021 21:06:51 +0900</pubDate>
+            <category>講演</category>
+        </item>
+        
+        <item>
+            <title>【デジタル通貨フォーラム】ホワイトペーパー、プログレスレポート公表のお知らせ</title>
+            <link>https://future-fintech.github.io/articles/20211124</link>
+            <description>「デジタル通貨フォーラム」から公表されたホワイトペーパーおよびプログレスレポートのご案内です。</description>
+            <pubDate>Wed, 24 Nov 2021 16:00:27 +0900</pubDate>
+            <category>others</category>
+        </item>
+        
+        <item>
+            <title>日本のDXのどこが問題か</title>
+            <link>https://future-fintech.github.io/articles/20211122</link>
+            <description>9月に「デジタル庁」が発足したが、行政のデジタル化・DX（デジタル・トランスフォーメーション）を進める上で重要な点は何なのか解説します。
+</description>
+            <pubDate>Mon, 22 Nov 2021 20:55:32 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
+            <title>「新型コロナウイルスの経験と医療DXの可能性」のダイジェスト映像公開のご案内</title>
+            <link>https://future-fintech.github.io/articles/20211117</link>
+            <description>FUTURE INSIGHT SEMINARのダイジェスト動画公開のご案内です。</description>
+            <pubDate>Wed, 17 Nov 2021 17:58:57 +0900</pubDate>
+            <category>講演</category>
+        </item>
+        
+        <item>
+            <title>感染症の経済モデル</title>
+            <link>https://future-fintech.github.io/articles/20211115</link>
+            <description>デルタ株が猛威を振るう中、人々の安全と経済との両立は、各国で重い課題となっています。日本銀行で長く経済分析に携わった山岡浩巳が解説します。</description>
+            <pubDate>Mon, 15 Nov 2021 13:17:22 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
+            <title>「東京・サステナブル・ファイナンス・フォーラム2021」に登壇しました</title>
+            <link>https://future-fintech.github.io/articles/20211111</link>
+            <description>アーカイブ動画のご案内です。</description>
+            <pubDate>Thu, 11 Nov 2021 15:47:11 +0900</pubDate>
+            <category>講演</category>
+        </item>
+        
+        <item>
+            <title>第7回開志コラボセミナー「デジタル化する世界と地域経済の可能性」のご案内</title>
+            <link>https://future-fintech.github.io/articles/20211109</link>
+            <description>フューチャー経済・金融研究所所長の山岡浩巳が講演します。</description>
+            <pubDate>Tue, 09 Nov 2021 15:54:37 +0900</pubDate>
+            <category>講演</category>
+        </item>
+        
+        <item>
+            <title>ベネズエラの混迷</title>
+            <link>https://future-fintech.github.io/articles/20211101</link>
+            <description>ハイパーインフレの中で暗号資産を自ら発行したベネズエラ、その背景について解説します。</description>
+            <pubDate>Mon, 01 Nov 2021 14:48:34 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
+            <title>北京オリンピックとデジタル人民元</title>
+            <link>https://future-fintech.github.io/articles/20211018</link>
+            <description>中国はデジタル人民元を2022年北京冬季オリンピックで試験的に発行することを計画している。ここで注目すべき点について、解説します。</description>
+            <pubDate>Mon, 18 Oct 2021 22:59:15 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
+            <title>カリブの海賊とデジタルマネー</title>
+            <link>https://future-fintech.github.io/articles/20210914</link>
+            <description>デジタル通貨を実際に発行した中央銀行は今なお限られているが、昨年10月のバハマに続き、本年、東カリブ中央銀行も4か国での試験発行に踏み切った。カリブ諸国の積極姿勢の背景について解説します。</description>
+            <pubDate>Tue, 14 Sep 2021 20:42:13 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+    </channel>
+</rss>
