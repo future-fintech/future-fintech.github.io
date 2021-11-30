@@ -6,6 +6,15 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>NBAとブロックチェーン</title>
+            <link>https://future-fintech.github.io/articles/20211130</link>
+            <description>デジタル技術の中でもとくに注目度の高いブロックチェーン、その応用に積極的に取り組んでいる米国のプロバスケットボールリーグ（NBA）について解説します。
+</description>
+            <pubDate>Tue, 30 Nov 2021 19:29:37 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>「​東京₋ロンドン グリーンファイナンスセミナー2021」 に登壇します</title>
             <link>https://future-fintech.github.io/articles/20211126</link>
             <description>グリーンファイナンスセミナーのご案内です。</description>
@@ -75,14 +84,6 @@
             <link>https://future-fintech.github.io/articles/20211018</link>
             <description>中国はデジタル人民元を2022年北京冬季オリンピックで試験的に発行することを計画している。ここで注目すべき点について、解説します。</description>
             <pubDate>Mon, 18 Oct 2021 22:59:15 +0900</pubDate>
-            <category>コラム</category>
-        </item>
-        
-        <item>
-            <title>カリブの海賊とデジタルマネー</title>
-            <link>https://future-fintech.github.io/articles/20210914</link>
-            <description>デジタル通貨を実際に発行した中央銀行は今なお限られているが、昨年10月のバハマに続き、本年、東カリブ中央銀行も4か国での試験発行に踏み切った。カリブ諸国の積極姿勢の背景について解説します。</description>
-            <pubDate>Tue, 14 Sep 2021 20:42:13 +0900</pubDate>
             <category>コラム</category>
         </item>
         
