@@ -6,6 +6,15 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>南米のデジタル企業</title>
+            <link>https://future-fintech.github.io/articles/20211208</link>
+            <description>日本からみて地球の反対側にある南米で、今、新しいデジタル企業が数多く登場してきています。その新たな動きについて解説します。
+</description>
+            <pubDate>Wed, 08 Dec 2021 11:01:08 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>NBAとブロックチェーン</title>
             <link>https://future-fintech.github.io/articles/20211130</link>
             <description>デジタル技術の中でもとくに注目度の高いブロックチェーン、その応用に積極的に取り組んでいる米国のプロバスケットボールリーグ（NBA）について解説します。
@@ -76,14 +85,6 @@
             <link>https://future-fintech.github.io/articles/20211101</link>
             <description>ハイパーインフレの中で暗号資産を自ら発行したベネズエラ、その背景について解説します。</description>
             <pubDate>Mon, 01 Nov 2021 14:48:34 +0900</pubDate>
-            <category>コラム</category>
-        </item>
-        
-        <item>
-            <title>北京オリンピックとデジタル人民元</title>
-            <link>https://future-fintech.github.io/articles/20211018</link>
-            <description>中国はデジタル人民元を2022年北京冬季オリンピックで試験的に発行することを計画している。ここで注目すべき点について、解説します。</description>
-            <pubDate>Mon, 18 Oct 2021 22:59:15 +0900</pubDate>
             <category>コラム</category>
         </item>
         
