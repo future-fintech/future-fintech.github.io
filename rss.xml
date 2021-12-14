@@ -6,15 +6,6 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
-            <title>BNPLとは何か</title>
-            <link>https://future-fintech.github.io/articles/20211215</link>
-            <description>金融分野への参入の新しい形として、BNPL（Buy Now Pay Later）が注目されている。デジタル化時代が生んだ新たな金融サービスについて解説します。
-</description>
-            <pubDate>Wed, 15 Dec 2021 07:00:00 +0900</pubDate>
-            <category>コラム</category>
-        </item>
-        
-        <item>
             <title>【通貨と銀⾏の将来を考える研究会】報告書公表のお知らせ</title>
             <link>https://future-fintech.github.io/articles/20211212</link>
             <description>「通貨と銀行の将来を考える研究会」による報告書を公表のお知らせです。</description>
@@ -86,6 +77,14 @@
             <link>https://future-fintech.github.io/articles/20211111</link>
             <description>アーカイブ動画のご案内です。</description>
             <pubDate>Thu, 11 Nov 2021 15:47:11 +0900</pubDate>
+            <category>講演</category>
+        </item>
+        
+        <item>
+            <title>第7回開志コラボセミナー「デジタル化する世界と地域経済の可能性」のご案内</title>
+            <link>https://future-fintech.github.io/articles/20211109</link>
+            <description>フューチャー経済・金融研究所所長の山岡浩巳が講演します。</description>
+            <pubDate>Tue, 09 Nov 2021 15:54:37 +0900</pubDate>
             <category>講演</category>
         </item>
         
