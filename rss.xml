@@ -6,6 +6,15 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>デジタル時代のショパンコンクール</title>
+            <link>https://future-fintech.github.io/articles/20211222</link>
+            <description>ピアノ界最大のイベントであるポーランドのショパンコンクールも、デジタル化の中で進化を遂げている。デジタル化と人間の可能性について、解説する。
+</description>
+            <pubDate>Wed, 22 Dec 2021 11:02:27 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>ＦＩＦ設立15周年記念「地域創生セミナー」登壇のお知らせ</title>
             <link>https://future-fintech.github.io/articles/20211218</link>
             <description>来年2月4日開催の「地域創生セミナー」のご案内です。</description>
@@ -79,14 +88,6 @@
             <description>FUTURE INSIGHT SEMINARのダイジェスト動画公開のご案内です。</description>
             <pubDate>Wed, 17 Nov 2021 17:58:57 +0900</pubDate>
             <category>講演</category>
-        </item>
-        
-        <item>
-            <title>感染症の経済モデル</title>
-            <link>https://future-fintech.github.io/articles/20211115</link>
-            <description>デルタ株が猛威を振るう中、人々の安全と経済との両立は、各国で重い課題となっています。日本銀行で長く経済分析に携わった山岡浩巳が解説します。</description>
-            <pubDate>Mon, 15 Nov 2021 13:17:22 +0900</pubDate>
-            <category>コラム</category>
         </item>
         
     </channel>
