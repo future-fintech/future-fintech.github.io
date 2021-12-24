@@ -6,6 +6,14 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>日経チャンネル 動画公開のお知らせ「Next SDGsファイナンスチャレンジ」</title>
+            <link>https://future-fintech.github.io/articles/20211224</link>
+            <description>SDGsをテーマにしたパネルディスカッションの動画公開のご案内です。</description>
+            <pubDate>Fri, 24 Dec 2021 18:02:22 +0900</pubDate>
+            <category>others</category>
+        </item>
+        
+        <item>
             <title>デジタル時代のショパンコンクール</title>
             <link>https://future-fintech.github.io/articles/20211223</link>
             <description>ピアノ界最大のイベントであるポーランドのショパンコンクールも、デジタル化の中で進化を遂げている。デジタル化と人間の可能性について解説します。
@@ -80,14 +88,6 @@
 </description>
             <pubDate>Mon, 22 Nov 2021 20:55:32 +0900</pubDate>
             <category>コラム</category>
-        </item>
-        
-        <item>
-            <title>「新型コロナウイルスの経験と医療DXの可能性」のダイジェスト映像公開のご案内</title>
-            <link>https://future-fintech.github.io/articles/20211117</link>
-            <description>FUTURE INSIGHT SEMINARのダイジェスト動画公開のご案内です。</description>
-            <pubDate>Wed, 17 Nov 2021 17:58:57 +0900</pubDate>
-            <category>講演</category>
         </item>
         
     </channel>
