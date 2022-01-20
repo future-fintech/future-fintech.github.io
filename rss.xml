@@ -6,20 +6,20 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>国際金融規制と環境問題</title>
+            <link>https://future-fintech.github.io/articles/20220120</link>
+            <description>国際的な銀行規制を所管するバーゼル銀行監督委員会は11月16日、気候関連リスクに関する原則案を公表しました。なぜ銀行規制当局が気候関連リスクに注目するのでしょうか。同委員会の元メンバーである山岡浩巳が解説します。
+</description>
+            <pubDate>Thu, 20 Jan 2022 17:37:22 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>2021年度「東京金融賞」金融イノベーション部門・ESG部門結果発表およびプレゼンテーションのご案内</title>
             <link>https://future-fintech.github.io/articles/20220119</link>
             <description>2021年度「東京金融賞」金融イノベーション部門・ESG部門の結果およびプレゼンテーションのご案内です。</description>
             <pubDate>Wed, 19 Jan 2022 15:28:07 +0900</pubDate>
             <category>others</category>
-        </item>
-        
-        <item>
-            <title>国際金融規制と環境問題</title>
-            <link>https://future-fintech.github.io/articles/20220118</link>
-            <description>国際的な銀行規制を所管するバーゼル銀行監督委員会は11月16日、気候関連リスクに関する原則案を公表しました。なぜ銀行規制当局が気候関連リスクに注目するのでしょうか。同委員会の元メンバーである山岡浩巳が解説します。
-</description>
-            <pubDate>Tue, 18 Jan 2022 17:37:22 +0900</pubDate>
-            <category>コラム</category>
         </item>
         
         <item>
