@@ -6,14 +6,6 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
-            <title>東洋経済ONLINE 記事掲載のお知らせ（デジタル通貨フォーラム）</title>
-            <link>https://future-fintech.github.io/articles/20220124</link>
-            <description>東洋経済ONLINEにて、山岡浩巳が座長を務める「デジタル通貨フォーラム」が取り上げられました。</description>
-            <pubDate>Mon, 24 Jan 2022 21:39:19 +0900</pubDate>
-            <category>others</category>
-        </item>
-        
-        <item>
             <title>国際金融規制と環境問題</title>
             <link>https://future-fintech.github.io/articles/20220120</link>
             <description>国際的な銀行規制を所管するバーゼル銀行監督委員会は11月16日、気候関連リスクに関する原則案を公表しました。なぜ銀行規制当局が気候関連リスクに注目するのでしょうか。同委員会の元メンバーである山岡浩巳が解説します。
@@ -87,6 +79,14 @@
 </description>
             <pubDate>Wed, 15 Dec 2021 08:30:24 +0900</pubDate>
             <category>コラム</category>
+        </item>
+        
+        <item>
+            <title>【通貨と銀⾏の将来を考える研究会】報告書公表のお知らせ</title>
+            <link>https://future-fintech.github.io/articles/20211212</link>
+            <description>「通貨と銀行の将来を考える研究会」による報告書を公表のお知らせです。</description>
+            <pubDate>Sun, 12 Dec 2021 17:10:02 +0900</pubDate>
+            <category>others</category>
         </item>
         
     </channel>
