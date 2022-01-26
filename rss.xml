@@ -6,6 +6,14 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>【インタビュー掲載のお知らせ】ITmediaビジネスONLINE「大手企業74社が参画 ステーブルコインDCJPYで円がデジタル化、何が変わる？」</title>
+            <link>https://future-fintech.github.io/articles/20220126</link>
+            <description>ITmediaビジネスONLINEにインタビュー記事が掲載されました。</description>
+            <pubDate>Wed, 26 Jan 2022 15:40:32 +0900</pubDate>
+            <category>others</category>
+        </item>
+        
+        <item>
             <title>「地域創生セミナー」のご案内</title>
             <link>https://future-fintech.github.io/articles/20220125</link>
             <description>2月4日開催の「地域創生セミナー」のご案内です。</description>
@@ -78,14 +86,6 @@
 </description>
             <pubDate>Thu, 23 Dec 2021 22:58:27 +0900</pubDate>
             <category>コラム</category>
-        </item>
-        
-        <item>
-            <title>ＦＩＦ設立15周年記念「地域創生セミナー」登壇のお知らせ</title>
-            <link>https://future-fintech.github.io/articles/20211218</link>
-            <description>来年2月4日開催の「地域創生セミナー」のご案内です。</description>
-            <pubDate>Sat, 18 Dec 2021 22:06:51 +0900</pubDate>
-            <category>講演</category>
         </item>
         
     </channel>
