@@ -6,6 +6,15 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>市長が給与を暗号資産で？</title>
+            <link>https://future-fintech.github.io/articles/20220127</link>
+            <description>最近の暗号資産関連のニュースとして、米国マイアミ市の市長が給与を暗号資産で受け取る意向を表明したことが挙げられます。マイアミで何が起こっているのか解説します。
+</description>
+            <pubDate>Thu, 27 Jan 2022 10:26:57 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>【インタビュー掲載のお知らせ】ITmediaビジネスONLINE「大手企業74社が参画 ステーブルコインDCJPYで円がデジタル化、何が変わる？」</title>
             <link>https://future-fintech.github.io/articles/20220126</link>
             <description>ITmediaビジネスONLINEにインタビュー記事が掲載されました。</description>
@@ -77,15 +86,6 @@
             <description>SDGsをテーマにしたパネルディスカッションの動画公開のご案内です。</description>
             <pubDate>Fri, 24 Dec 2021 18:02:22 +0900</pubDate>
             <category>others</category>
-        </item>
-        
-        <item>
-            <title>デジタル時代のショパンコンクール</title>
-            <link>https://future-fintech.github.io/articles/20211223</link>
-            <description>ピアノ界最大のイベントであるポーランドのショパンコンクールも、デジタル化の中で進化を遂げています。デジタル化と人間の可能性について解説します。
-</description>
-            <pubDate>Thu, 23 Dec 2021 22:58:27 +0900</pubDate>
-            <category>コラム</category>
         </item>
         
     </channel>
