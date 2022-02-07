@@ -6,6 +6,15 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>ナイジェリアのデジタルマネー</title>
+            <link>https://future-fintech.github.io/articles/20220207</link>
+            <description>公式には世界で2番目の中央銀行デジタル通貨発行国となったナイジェリア。そのデジタル通貨eNairaについて解説します。
+</description>
+            <pubDate>Mon, 07 Feb 2022 21:04:31 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>【記事掲載のお知らせ】CNET Japan「デジタル通貨」とは何か？メリットや種類、海外動向を解説</title>
             <link>https://future-fintech.github.io/articles/20220131</link>
             <description>CNET Japan に掲載された「デジタル通貨」に関する解説記事のご案内です。</description>
@@ -78,14 +87,6 @@
             <description>「2021年度 第15回 筑駒アカデメイア 公開講演会」のご案内です。</description>
             <pubDate>Thu, 06 Jan 2022 09:15:53 +0900</pubDate>
             <category>講演</category>
-        </item>
-        
-        <item>
-            <title>【通貨と銀行の将来を考える研究会】進捗報告フォーラムの議事概要公表のお知らせ</title>
-            <link>https://future-fintech.github.io/articles/20220105</link>
-            <description>「通貨と銀行の将来を考える研究会」進捗報告フォーラムの議事概要のご案内です。</description>
-            <pubDate>Wed, 05 Jan 2022 21:23:46 +0900</pubDate>
-            <category>others</category>
         </item>
         
     </channel>
