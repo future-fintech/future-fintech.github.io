@@ -6,6 +6,14 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>【記事掲載のお知らせ】週刊エコノミスト「​インフレの脅威は消し去れない 物価統計をデジタル技術で精緻に」</title>
+            <link>https://future-fintech.github.io/articles/20220222</link>
+            <description>寄稿記事（週刊エコノミスト）のご紹介です。</description>
+            <pubDate>Tue, 22 Feb 2022 22:13:35 +0900</pubDate>
+
+        </item>
+        
+        <item>
             <title>2022年、デジタル化の課題</title>
             <link>https://future-fintech.github.io/articles/20220218</link>
             <description>2022年、米中問題や脱炭素化、世界的なインフレ傾向などがデジタル化にどのような影響を及ぼすのか、その展望をお伝えします。
@@ -79,15 +87,6 @@
             <description>2021年度「東京金融賞」金融イノベーション部門・ESG部門の結果およびプレゼンテーションのご案内です。</description>
             <pubDate>Wed, 19 Jan 2022 15:28:07 +0900</pubDate>
             <category>others</category>
-        </item>
-        
-        <item>
-            <title>ビットコインを法定通貨に？</title>
-            <link>https://future-fintech.github.io/articles/20220112</link>
-            <description>6月上旬、エルサルバドルがビットコインを法定通貨にしたというニュースは世界を驚かせましたが、現実の課題は多くあります。エルサルバドル特有の事情と、この決定が示唆する 今後の金融界に求められることについて解説します。
-</description>
-            <pubDate>Wed, 12 Jan 2022 11:33:40 +0900</pubDate>
-            <category>コラム</category>
         </item>
         
     </channel>
