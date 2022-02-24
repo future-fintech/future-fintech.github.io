@@ -6,6 +6,14 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>【記事掲載のお知らせ】コエテコ「データは宝の山なんだ！経済と金融は面白いぞ～1DAY金融経済アカデミーを体験してみた～」</title>
+            <link>https://future-fintech.github.io/articles/20220224</link>
+            <description>中学生向け金融経済講座「1DAY金融経済アカデミー」を取り上げていただきました。</description>
+            <pubDate>Thu, 24 Feb 2022 22:53:11 +0900</pubDate>
+            <category>others</category>
+        </item>
+        
+        <item>
             <title>デジタル化とインフレ</title>
             <link>https://future-fintech.github.io/articles/20220224</link>
             <description>本年、世界的なインフレ率の高まりが注目を集めています。デジタル化は物価にどのように関わるのか。日本銀行で長らく物価の分析に携わった山岡浩巳が展望します。
@@ -79,15 +87,6 @@
             <description>東洋経済ONLINEにて、山岡浩巳が座長を務める「デジタル通貨フォーラム」が取り上げられました。</description>
             <pubDate>Mon, 24 Jan 2022 21:39:19 +0900</pubDate>
             <category>others</category>
-        </item>
-        
-        <item>
-            <title>国際金融規制と環境問題</title>
-            <link>https://future-fintech.github.io/articles/20220120</link>
-            <description>国際的な銀行規制を所管するバーゼル銀行監督委員会は11月16日、気候関連リスクに関する原則案を公表しました。なぜ銀行規制当局が気候関連リスクに注目するのでしょうか。同委員会の元メンバーである山岡浩巳が解説します。
-</description>
-            <pubDate>Thu, 20 Jan 2022 17:37:22 +0900</pubDate>
-            <category>コラム</category>
         </item>
         
     </channel>
