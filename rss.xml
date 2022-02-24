@@ -6,6 +6,15 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>デジタル化とインフレ</title>
+            <link>https://future-fintech.github.io/articles/20220224</link>
+            <description>本年、世界的なインフレ率の高まりが注目を集めています。デジタル化は物価にどのように関わるのか。日本銀行で長らく物価の分析に携わった山岡浩巳が展望します。
+</description>
+            <pubDate>Thu, 24 Feb 2022 22:51:52 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>【記事掲載のお知らせ】週刊エコノミスト「​インフレの脅威は消し去れない 物価統計をデジタル技術で精緻に」</title>
             <link>https://future-fintech.github.io/articles/20220222</link>
             <description>寄稿記事（週刊エコノミスト）のご紹介です。</description>
@@ -79,14 +88,6 @@
 </description>
             <pubDate>Thu, 20 Jan 2022 17:37:22 +0900</pubDate>
             <category>コラム</category>
-        </item>
-        
-        <item>
-            <title>2021年度「東京金融賞」金融イノベーション部門・ESG部門結果発表およびプレゼンテーションのご案内</title>
-            <link>https://future-fintech.github.io/articles/20220119</link>
-            <description>2021年度「東京金融賞」金融イノベーション部門・ESG部門の結果およびプレゼンテーションのご案内です。</description>
-            <pubDate>Wed, 19 Jan 2022 15:28:07 +0900</pubDate>
-            <category>others</category>
         </item>
         
     </channel>
