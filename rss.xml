@@ -6,6 +6,15 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>デジタル化とメタバース</title>
+            <link>https://future-fintech.github.io/articles/20220302</link>
+            <description>昨年、急速に拡散した言葉に「メタバース」があります。米フェイスブック社も「メタ」へと社名を変更しました。では、「メタバース」という言葉が登場した背景は何なのでしょうか。
+</description>
+            <pubDate>Wed, 02 Mar 2022 19:23:56 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>【記事掲載のお知らせ】コエテコ「データは宝の山なんだ！経済と金融は面白いぞ～1DAY金融経済アカデミーを体験してみた～」</title>
             <link>https://future-fintech.github.io/articles/20220225</link>
             <description>中学生向け金融経済講座「1DAY金融経済アカデミー」を取り上げていただきました。</description>
@@ -79,14 +88,6 @@
             <description>2月4日開催の「地域創生セミナー」のご案内です。</description>
             <pubDate>Tue, 25 Jan 2022 20:19:32 +0900</pubDate>
             <category>講演</category>
-        </item>
-        
-        <item>
-            <title>東洋経済ONLINE 記事掲載のお知らせ（デジタル通貨フォーラム）</title>
-            <link>https://future-fintech.github.io/articles/20220124</link>
-            <description>東洋経済ONLINEにて、山岡浩巳が座長を務める「デジタル通貨フォーラム」が取り上げられました。</description>
-            <pubDate>Mon, 24 Jan 2022 21:39:19 +0900</pubDate>
-            <category>others</category>
         </item>
         
     </channel>
