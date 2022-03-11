@@ -6,6 +6,14 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>【インタビュー掲載のお知らせ】ITmedia エンタープライズ『プログラム可能な民間デジタル通貨』とは何か、産業界のデジタル変革にどう貢献する？</title>
+            <link>https://future-fintech.github.io/articles/20220311</link>
+            <description>ITmedia エンタープライズでの「デジタル通貨」に関する山岡のインタビュー記事のご紹介です。</description>
+            <pubDate>Fri, 11 Mar 2022 19:32:22 +0900</pubDate>
+            <category>others</category>
+        </item>
+        
+        <item>
             <title>【対談記事掲載のお知らせ】SBI金融経済研究所所報「巻末対談 次世代・デジタル金融のあり方」</title>
             <link>https://future-fintech.github.io/articles/20220310</link>
             <description>「次世代・デジタル金融のあり方」についての対談記事のご紹介です。</description>
@@ -79,15 +87,6 @@
             <description>CNET Japan に掲載された「デジタル通貨」に関する解説記事のご案内です。</description>
             <pubDate>Mon, 31 Jan 2022 23:07:51 +0900</pubDate>
             <category>寄稿</category>
-        </item>
-        
-        <item>
-            <title>市長が給与を暗号資産で？</title>
-            <link>https://future-fintech.github.io/articles/20220127</link>
-            <description>最近の暗号資産関連のニュースとして、米国マイアミ市の市長が給与を暗号資産で受け取る意向を表明したことが挙げられます。マイアミで何が起こっているのか解説します。
-</description>
-            <pubDate>Thu, 27 Jan 2022 10:26:57 +0900</pubDate>
-            <category>コラム</category>
         </item>
         
     </channel>
