@@ -6,6 +6,15 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>リブラの撤退</title>
+            <link>https://future-fintech.github.io/articles/20220318</link>
+            <description>フェイスブック（メタ）は、これまで主導していたステーブルコイン「リブラ」（現「ディエム」）の計画から撤退する旨公表しました。この背景について考察します。
+</description>
+            <pubDate>Fri, 18 Mar 2022 17:52:59 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>【インタビュー掲載のお知らせ】ロイター「Ｇ７はロシアのデフォルト覚悟、リスク回避強まりも」</title>
             <link>https://future-fintech.github.io/articles/20220317</link>
             <description>ロシアに対するＧ７の金融制裁についてのインタビュー記事のご紹介です。</description>
@@ -14,7 +23,7 @@
         </item>
         
         <item>
-            <title>【インタビュー掲載のお知らせ】ITmedia エンタープライズ『プログラム可能な民間デジタル通貨』とは何か、産業界のデジタル変革にどう貢献する？</title>
+            <title>【インタビュー掲載のお知らせ】ITmedia エンタープライズ「『プログラム可能な民間デジタル通貨』とは何か、産業界のデジタル変革にどう貢献する？」</title>
             <link>https://future-fintech.github.io/articles/20220311</link>
             <description>ITmedia エンタープライズでの「デジタル通貨」に関する山岡のインタビュー記事のご紹介です。</description>
             <pubDate>Fri, 11 Mar 2022 19:32:22 +0900</pubDate>
@@ -77,15 +86,6 @@
             <description>2022年、米中問題や脱炭素化、世界的なインフレ傾向などがデジタル化にどのような影響を及ぼすのか、その展望をお伝えします。
 </description>
             <pubDate>Fri, 18 Feb 2022 09:49:52 +0900</pubDate>
-            <category>コラム</category>
-        </item>
-        
-        <item>
-            <title>ナイジェリアのデジタルマネー</title>
-            <link>https://future-fintech.github.io/articles/20220207</link>
-            <description>公式には世界で2番目の中央銀行デジタル通貨発行国となったナイジェリア。そのデジタル通貨eNairaについて解説します。
-</description>
-            <pubDate>Mon, 07 Feb 2022 21:04:31 +0900</pubDate>
             <category>コラム</category>
         </item>
         
