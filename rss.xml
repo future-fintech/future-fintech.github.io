@@ -6,6 +6,14 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>【書籍出版のお知らせ】『デジタル時代の金融システム―欧州と日本からの視点』</title>
+            <link>https://future-fintech.github.io/articles/20220329</link>
+            <description>日本とドイツの研究者が共同研究を行った成果をまとめた書籍『デジタル時代の金融システム―欧州と日本からの視点』の刊行のご案内です。</description>
+            <pubDate>Tue, 29 Mar 2022 23:15:16 +0900</pubDate>
+            <category>others</category>
+        </item>
+        
+        <item>
             <title>【連載記事掲載のお知らせ】CNET Japan「デジタル通貨」に関する解説記事</title>
             <link>https://future-fintech.github.io/articles/20220324</link>
             <description>CNET Japan「デジタル通貨」に関する解説記事のご紹介です。</description>
@@ -78,15 +86,6 @@
             <description>中学生向け金融経済講座「1DAY金融経済アカデミー」を取り上げていただきました。</description>
             <pubDate>Fri, 25 Feb 2022 08:00:00 +0900</pubDate>
             <category>others</category>
-        </item>
-        
-        <item>
-            <title>デジタル化とインフレ</title>
-            <link>https://future-fintech.github.io/articles/20220224</link>
-            <description>本年、世界的なインフレ率の高まりが注目を集めています。デジタル化は物価にどのように関わるのか、日本銀行で長らく物価の分析に携わった山岡浩巳が展望します。
-</description>
-            <pubDate>Thu, 24 Feb 2022 23:23:29 +0900</pubDate>
-            <category>コラム</category>
         </item>
         
     </channel>
