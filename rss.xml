@@ -6,9 +6,18 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>SWIFTとは何か</title>
+            <link>https://future-fintech.github.io/articles/20220406</link>
+            <description>ロシアへの制裁として、SWIFTの国際送金ネットワークからロシアの7銀行が外されました。SWIFTとは何か、そしてこの措置が何を意味するのか、SWIFTの「オーバーサイトグループ」のメンバーであった山岡浩巳が解説します。
+</description>
+            <pubDate>Wed, 06 Apr 2022 10:56:10 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>インドがデジタル通貨に取り組む意図</title>
             <link>https://future-fintech.github.io/articles/20220401</link>
-            <description>この2月、約14億人の人口を抱える大国インドがデジタル通貨に取り組んでいくことを表明しました。その背景について、山岡が解説します。
+            <description>この2月、約14億人の人口を抱える大国インドがデジタル通貨に取り組んでいくことを表明しました。その背景について、山岡浩巳が解説します。
 </description>
             <pubDate>Fri, 01 Apr 2022 12:55:54 +0900</pubDate>
             <category>コラム</category>
@@ -78,14 +87,6 @@
             <description>「次世代・デジタル金融のあり方」についての対談記事のご紹介です。</description>
             <pubDate>Thu, 10 Mar 2022 22:36:01 +0900</pubDate>
             <category>others</category>
-        </item>
-        
-        <item>
-            <title>【記事掲載のお知らせ】週刊エコノミスト「​メタバースを理解して無法地帯にしない方法」</title>
-            <link>https://future-fintech.github.io/articles/20220307</link>
-            <description>寄稿記事（週刊エコノミスト）のご紹介です。</description>
-            <pubDate>Mon, 07 Mar 2022 14:58:48 +0900</pubDate>
-            <category>寄稿</category>
         </item>
         
     </channel>
