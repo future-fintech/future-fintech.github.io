@@ -6,6 +6,15 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>デジタル・ドルに関する米国大統領令</title>
+            <link>https://future-fintech.github.io/articles/20220422</link>
+            <description>ロシアのウクライナ侵攻から約2週間後、米国のバイデン大統領はデジタル資産に関する大統領令を発出した。その内容を元日銀局長の山岡浩巳氏が解説する。
+</description>
+            <pubDate>Fri, 22 Apr 2022 19:34:42 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>【講演資料公開のお知らせ】財務総合政策研究所「民間事業者からみたデジタル通貨の課題と取組み」</title>
             <link>https://future-fintech.github.io/articles/20220420</link>
             <description>財務総合政策研究所「外部有識者による研究所内講演会」での講演資料公開のご案内です。</description>
@@ -78,15 +87,6 @@
             <description>CNET Japan「デジタル通貨」に関する解説記事のご紹介です。</description>
             <pubDate>Thu, 24 Mar 2022 14:47:28 +0900</pubDate>
             <category>寄稿</category>
-        </item>
-        
-        <item>
-            <title>デジタル時代の国際金融都市構想</title>
-            <link>https://future-fintech.github.io/articles/20220323</link>
-            <description>東京の国際金融市場としての発展は日本が長年取り組んできた課題ですが、デジタル時代の新たな要請とは何でしょうか。「『国際金融都市・東京』構想に関する有識者懇談会」メンバーの山岡浩巳が解説します。
-</description>
-            <pubDate>Wed, 23 Mar 2022 14:16:17 +0900</pubDate>
-            <category>コラム</category>
         </item>
         
     </channel>
