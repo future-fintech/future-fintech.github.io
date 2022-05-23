@@ -6,6 +6,15 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>ロシア経済の特殊性</title>
+            <link>https://future-fintech.github.io/articles/20220520</link>
+            <description>ロシアへの経済制裁は長期化の方向にあります。経済制裁については世界経済への影響も気がかりですが、そもそもロシア経済にはどのように効くのでしょうか。山岡浩巳が解説します。
+</description>
+            <pubDate>Fri, 20 May 2022 19:44:09 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>デジタル時代の経済制裁</title>
             <link>https://future-fintech.github.io/articles/20220513</link>
             <description>ロシアのウクライナ侵攻に伴う経済制裁が注目を集めています。デジタル時代の経済制裁の特徴について、山岡浩巳が解説します。
@@ -81,14 +90,6 @@
 </description>
             <pubDate>Fri, 01 Apr 2022 12:55:54 +0900</pubDate>
             <category>コラム</category>
-        </item>
-        
-        <item>
-            <title>【記事掲載のお知らせ】朝日新聞デジタル「ロシアのSWIFT排除「経済合理性」を超えた非常手段」</title>
-            <link>https://future-fintech.github.io/articles/20220331</link>
-            <description>朝日新聞デジタルによるインタビュー記事のご案内です。</description>
-            <pubDate>Thu, 31 Mar 2022 20:58:35 +0900</pubDate>
-            <category>others</category>
         </item>
         
     </channel>
