@@ -6,6 +6,15 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>デジタル時代の経済制裁</title>
+            <link>https://future-fintech.github.io/articles/20220513</link>
+            <description>ロシアのウクライナ侵攻に伴う経済制裁が注目を集めています。デジタル時代の経済制裁の特徴について、山岡浩巳が解説します。
+</description>
+            <pubDate>Fri, 13 May 2022 19:32:35 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>ロシアの金融政策は何をしているのか</title>
             <link>https://future-fintech.github.io/articles/20220428</link>
             <description>ロシアへの経済制裁が行われる中、ロシア中央銀行の金融市場対応が注目されています。元日銀金融市場局長として市場調節に関わってきた山岡浩巳が解説します。
@@ -79,14 +88,6 @@
             <link>https://future-fintech.github.io/articles/20220331</link>
             <description>朝日新聞デジタルによるインタビュー記事のご案内です。</description>
             <pubDate>Thu, 31 Mar 2022 20:58:35 +0900</pubDate>
-            <category>others</category>
-        </item>
-        
-        <item>
-            <title>【書籍出版のお知らせ】『デジタル時代の金融システム―欧州と日本からの視点』</title>
-            <link>https://future-fintech.github.io/articles/20220329</link>
-            <description>日本とドイツの研究者が共同研究を行った成果をまとめた書籍『デジタル時代の金融システム―欧州と日本からの視点』の刊行のご案内です。</description>
-            <pubDate>Tue, 29 Mar 2022 23:15:16 +0900</pubDate>
             <category>others</category>
         </item>
         
