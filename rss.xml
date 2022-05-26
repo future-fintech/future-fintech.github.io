@@ -6,6 +6,14 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>【掲載のお知らせ】財務総合政策研究所「民間事業者からみたデジタル通貨の課題と取組み」講演資料および概要</title>
+            <link>https://future-fintech.github.io/articles/20220526</link>
+            <description>財務省・財務総合政策研究所での講演資料および概要公開のお知らせです。</description>
+            <pubDate>Thu, 26 May 2022 17:57:55 +0900</pubDate>
+            <category>講演</category>
+        </item>
+        
+        <item>
             <title>ロシア経済の特殊性</title>
             <link>https://future-fintech.github.io/articles/20220520</link>
             <description>ロシアへの経済制裁は長期化の方向にあります。経済制裁については世界経済への影響も気がかりではありますが、そもそもロシア経済にはどのように効くのでしょうか。山岡浩巳が解説します。</description>
@@ -19,6 +27,14 @@
             <description>ロシアのウクライナ侵攻に伴う経済制裁が注目を集めています。デジタル時代の経済制裁の特徴について、山岡浩巳が解説します。</description>
             <pubDate>Fri, 13 May 2022 20:15:18 +0900</pubDate>
             <category>コラム</category>
+        </item>
+        
+        <item>
+            <title>【寄稿掲載のお知らせ】TEC＋マイナビニュース【連載】「国内のデジタル通貨の動向」</title>
+            <link>https://future-fintech.github.io/articles/20220511</link>
+            <description>TEC＋マイナビニュースへのデジタル通貨に関する寄稿記事です。</description>
+            <pubDate>Wed, 11 May 2022 18:02:16 +0900</pubDate>
+            <category>寄稿</category>
         </item>
         
         <item>
@@ -68,24 +84,6 @@
             <description>ウクライナは歴史的にも、また国際金融の舞台としても困難な道を辿った国です。国際通貨基金（IMF）においてリーマンショックからウクライナ支援までの政策決定を経験した山岡浩巳が解説します。
 </description>
             <pubDate>Fri, 15 Apr 2022 18:42:48 +0900</pubDate>
-            <category>コラム</category>
-        </item>
-        
-        <item>
-            <title>SWIFTとは何か</title>
-            <link>https://future-fintech.github.io/articles/20220406</link>
-            <description>ロシアへの制裁として、SWIFTの国際送金ネットワークからロシアの7銀行が外されました。SWIFTとは何か、そしてこの措置が何を意味するのか、SWIFTの「オーバーサイトグループ」のメンバーであった山岡浩巳が解説します。
-</description>
-            <pubDate>Wed, 06 Apr 2022 10:56:10 +0900</pubDate>
-            <category>コラム</category>
-        </item>
-        
-        <item>
-            <title>インドがデジタル通貨に取り組む意図</title>
-            <link>https://future-fintech.github.io/articles/20220401</link>
-            <description>この2月、約14億人の人口を抱える大国インドがデジタル通貨に取り組んでいくことを表明しました。その背景について、山岡浩巳が解説します。
-</description>
-            <pubDate>Fri, 01 Apr 2022 12:55:54 +0900</pubDate>
             <category>コラム</category>
         </item>
         
