@@ -6,6 +6,22 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>中央銀行デジタル通貨の付利問題</title>
+            <link>https://future-fintech.github.io/articles/20220531</link>
+            <description>多くの国々が中央銀行デジタル通貨の研究を進める中、これに付利をすべきかどうかが議論されていますが、当局や中央銀行の見解は、付利をしない方向が大勢です。山岡浩巳が解説します。</description>
+            <pubDate>Tue, 31 May 2022 20:30:20 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
+            <title>デジタル時代のインフレ再考</title>
+            <link>https://future-fintech.github.io/articles/20220527</link>
+            <description>世界的なインフレ率の上昇を受け、物価の問題に関心が集まっています。デジタル化が進む中で起こっている今の物価上昇をどう捉えるべきか、日銀で物価の分析に長く携わった山岡浩巳が解説します。</description>
+            <pubDate>Fri, 27 May 2022 20:28:21 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>【掲載のお知らせ】財務総合政策研究所「民間事業者からみたデジタル通貨の課題と取組み」講演資料および概要</title>
             <link>https://future-fintech.github.io/articles/20220526</link>
             <description>財務省・財務総合政策研究所での講演資料および概要公開のお知らせです。</description>
@@ -68,23 +84,6 @@
             <description>財務総合政策研究所「外部有識者による研究所内講演会」での講演資料公開のご案内です。</description>
             <pubDate>Wed, 20 Apr 2022 08:00:00 +0900</pubDate>
             <category>講演</category>
-        </item>
-        
-        <item>
-            <title>【登壇のお知らせ】日本金融学会2022年春季大会</title>
-            <link>https://future-fintech.github.io/articles/20220419</link>
-            <description>日本金融学会2022年春季大会にて、山岡浩巳より「情報・データの視点から見た金融の将来像」について報告いたします。</description>
-            <pubDate>Tue, 19 Apr 2022 20:43:04 +0900</pubDate>
-            <category>講演</category>
-        </item>
-        
-        <item>
-            <title>ウクライナと国際金融</title>
-            <link>https://future-fintech.github.io/articles/20220415</link>
-            <description>ウクライナは歴史的にも、また国際金融の舞台としても困難な道を辿った国です。国際通貨基金（IMF）においてリーマンショックからウクライナ支援までの政策決定を経験した山岡浩巳が解説します。
-</description>
-            <pubDate>Fri, 15 Apr 2022 18:42:48 +0900</pubDate>
-            <category>コラム</category>
         </item>
         
     </channel>
