@@ -6,6 +6,14 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>クリエイターとファンをつなぐデジタル技術</title>
+            <link>https://future-fintech.github.io/articles/20220610</link>
+            <description>暗号資産を誕生させたブロックチェーン。しかし、この技術の波及は金融分野だけにとどまりません。新たなデジタル技術がカルチャーの世界をどのように変えるのか――㈱ロイヤリティバンク取締役社長兼CTO五十嵐太清氏に訊きました（前編）。</description>
+            <pubDate>Fri, 10 Jun 2022 18:52:55 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>中央銀行デジタル通貨の付利問題</title>
             <link>https://future-fintech.github.io/articles/20220531</link>
             <description>多くの国々が中央銀行デジタル通貨の研究を進める中、これに付利をすべきかどうかが議論されていますが、当局や中央銀行の見解は、付利をしない方向が大勢です。山岡浩巳が解説します。</description>
@@ -76,14 +84,6 @@
             <description>東京都 国際金融都市担当のnoteのご案内です。</description>
             <pubDate>Thu, 21 Apr 2022 20:23:01 +0900</pubDate>
             <category>others</category>
-        </item>
-        
-        <item>
-            <title>【講演資料公開のお知らせ】財務総合政策研究所「民間事業者からみたデジタル通貨の課題と取組み」</title>
-            <link>https://future-fintech.github.io/articles/20220420</link>
-            <description>財務総合政策研究所「外部有識者による研究所内講演会」での講演資料公開のご案内です。</description>
-            <pubDate>Wed, 20 Apr 2022 08:00:00 +0900</pubDate>
-            <category>講演</category>
         </item>
         
     </channel>

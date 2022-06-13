@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+
+<html lang="ja" dir="ltr">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+    <title>クリエイターとファンをつなぐデジタル技術 | Future Fintech EyE - 金融の未来を語るブログ</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="description" content="暗号資産を誕生させたブロックチェーン。しかし、この技術の波及は金融分野だけにとどまりません。新たなデジタル技術がカルチャーの世界をどのように変えるのか――㈱ロイヤリティバンク取締役社長兼CTO五十嵐太清氏に訊きました（前編）。">
+	<!-- [ OGP ] -->
+	<meta property="og:locale" content="ja_JP">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="クリエイターとファンをつなぐデジタル技術">
+    <meta property="og:title" content="クリエイターとファンをつなぐデジタル技術">
+    <meta name="twitter:title" content="クリエイターとファンをつなぐデジタル技術">
+	<meta property="og:description" content="暗号資産を誕生させたブロックチェーン。しかし、この技術の波及は金融分野だけにとどまりません。新たなデジタル技術がカルチャーの世界をどのように変えるのか――㈱ロイヤリティバンク取締役社長兼CTO五十嵐太清氏に訊きました（前編）。">
+	<meta name="twitter:description" content="暗号資産を誕生させたブロックチェーン。しかし、この技術の波及は金融分野だけにとどまりません。新たなデジタル技術がカルチャーの世界をどのように変えるのか――㈱ロイヤリティバンク取締役社長兼CTO五十嵐太清氏に訊きました（前編）。">
+	<meta property="og:image" content="https://future-fintech.github.io/dist/img/ogp.png">
+    <meta property="og:url" content="https://future-fintech.github.io/articles/20220610/">
+	<!-- /[ OGP ] -->
+	<meta name="format-detection" content="telephone=no">
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="https://future-fintech.github.io/rss.xml" />
+	<link rel="stylesheet" href="/dist/css/style.css">
+	<link rel="stylesheet" href="/dist/css/style_custom.css">
+	<!-- Universal Analytics -->
+  <!--
+    <script>
+	(function(i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r;
+		i[r] = i[r] || function() {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date();
+		a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', 'アナリティクスIDを入力してください', 'auto');
+	ga('send', 'pageview');
+	</script>
+  -->
+	<!-- End Universal Analytics -->
+  </head>
+  <body>
+	<!-- Load Facebook SDK for JavaScript -->
+	<div id="fb-root"></div>
+	<script>
+	(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s);
+		js.id = id;
+		js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+	</script>
+
+<div class="l-wrap">
+
+<!-- [ HEADER-AREA ] -->
+		<header id="masthead" class="l-header header" role="banner">
+			<div class="header__innr">
+				<div class="header__branding">
+					<div class="header-logo">
+						<a class="header-logo__link" href="/" rel="home"><img class="header-logo__img" src="/dist/img/fineye_logo.png" alt="Future Fintech EYE - 金融の未来を語るブログ"></a>
+					</div>
+				</div>
+				<div class="header__catch">
+					<h1 class="header-catch__title site-title"><img class="header-catch__title-img" src="/dist/img/mv_title@2x.png" srcset="/dist/img/mv_title.png 838w, /dist/img/mv_title@2x.png 1676w" sizes="90vw" alt="Future Fintech EYE"></h1>
+					<div class="header-catch__dscr site-description"><img class="header-catch__dscr-img" src="/dist/img/mv_description@2x.png" srcset="/dist/img/mv_description.png 495w, /dist/img/mv_description@2x.png 990w" sizes="(max-width: 700px) 495px, 70vw" alt="金融の未来を語るブログ"></div>
+				</div>
+				<div class="header__sns">
+					<div class="sns-set">
+						<div class="sns-set__item">
+							<a href="https://twitter.com/share?url=https://future-fintech.github.io/&text=Future Fintech EYE - 金融の未来を語るブログ&ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false"></a>
+						</div>
+						<div class="sns-set__item">
+							<div class="fb-like" data-href="https://future-fintech.github.io/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+						</div>
+						<div class="sns-set__item">
+							<div class="fb-share-button" data-href="https://future-fintech.github.io/" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.tam-tam.co.jp%2Ftipsnote%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">シェア</a></div>
+						</div>
+						<div class="sns-set__item">
+							<a href="https://b.hatena.ne.jp/entry/https://future-fintech.github.io/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+							<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+						</div>
+						<div class="sns-set__item">
+							<a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="ja" data-save-url="https://future-fintech.github.io/"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="header__bg"></div>
+		</header>
+		<!-- /[ HEADER-AREA ] -->
+
+<!-- [[ CONTENT-AREA ]] -->
+        
+		<div id="content" class="l-content">
+			<div class="l-content__innr">
+				<div class="l-content__primary content-area">
+                    <article class="post">
+						<div class="post__head">
+							<div class="post__meta">
+                                <div class="post__date--l">2022/06/10</div>
+                                <div class="post__category">category: <span>column</span></div>
+							</div>
+							<h1 class="post__title--l">クリエイターとファンをつなぐデジタル技術</h1>
+							<p class="post__description--l">暗号資産を誕生させたブロックチェーン。しかし、この技術の波及は金融分野だけにとどまりません。新たなデジタル技術がカルチャーの世界をどのように変えるのか――㈱ロイヤリティバンク取締役社長兼CTO五十嵐太清氏に訊きました（前編）。</p>
+						</div>
+						<div class="post__body">
+                            <style><!--
+	img.aligncenter {
+  display: block;
+  margin: 0 auto !important; }
+	p{
+  text-indent: 1em;
+}
+	p.post__description--l{
+  text-indent: 0em;
+}	
+--></style>
+			<div class="column-article-body">
+										<p>ブロックチェーン（分散型台帳技術）とは、取引などの記録を誰かが一元管理するのではなく、インターネットにつながったネットワークの参加者が共有し、取引履歴を鎖（チェーン）のようにつないで維持する仕組みです。この技術は、金融の世界では大きな関心を集め、最初に暗号資産（当初は仮想通貨）という形で応用されました。これは、権利の連続という意味で、まずは、転々と人の手から手に渡っていくお金の分野への応用が最も考えやすかったからです。</p>
+<p>とはいえ、ブロックチェーンは応用の可能性が高い技術で、応用をお金の分野にとどめていてはその潜在力が十分発揮できないだろうと、私は前職（日本銀行）の時代から思っていました。今回は、アート、音楽、漫画、アニメといったカルチャー／エンターテインメントの分野でブロックチェーンのノウハウ・専門技術を活かして活躍されている五十嵐太清さんに、カルチャー分野における新たなデジタル技術の可能性を伺います。</p>
+<p><img class="size-full wp-image-3640 aligncenter" src="https://humonyinter.com/wp/wp-content/uploads/2022/05/it.83.1.png" alt="" width="420" height="420" />五十嵐太清（いがらし・たいせい）<br />
+2019年会津大学大学院卒。在学中にソラミツ株式会社にてHyperledger/Irohaの設計・開発、カンボジア国立銀行と共同でカンボジアのデジタル通貨の開発を行う。現在は、㈱ロイヤリティバンクにてブロックチェーンを用いた権利管理、印税分配を行うアーキテクチャの研究、開発を行っている。</p>
+<p>&nbsp;</p>
+<p><strong>山岡</strong>　まず、五十嵐さんが社長を務めている㈱ロイヤリティバンクが、現在どのような取り組みをされているかをご紹介ください。</p>
+<p><strong>五十嵐</strong>　㈱ロイヤリティバンクは主に2つの事業を展開しています。</p>
+<p>ひとつは、NFTを使ってアーティスト／クリエイターとファンの新しい関係性を作っていこうというサービス、「QUESTRY」です。アーティスト／クリエイターがNFTを発行してそれをファンに直接販売することができ、ファンはそのNFTをいわば会員証的な形で使って非公開動画やイベントにアクセスできるというサービスです。</p>
+<p style="text-align: center;"><img loading="lazy" class="size-medium wp-image-3641 aligncenter" src="https://humonyinter.com/wp/wp-content/uploads/2022/05/it.83.2-600x341.png" alt="" width="600" height="341" srcset="https://humonyinter.com/wp/wp-content/uploads/2022/05/it.83.2-600x341.png 600w, https://humonyinter.com/wp/wp-content/uploads/2022/05/it.83.2-831x473.png 831w, https://humonyinter.com/wp/wp-content/uploads/2022/05/it.83.2-768x437.png 768w, https://humonyinter.com/wp/wp-content/uploads/2022/05/it.83.2-1536x874.png 1536w, https://humonyinter.com/wp/wp-content/uploads/2022/05/it.83.2.png 1624w" sizes="(max-width: 600px) 100vw, 600px" /><span style="color: #808080; font-size: 14px;">Royalty Bankホームページより（<a href="https://www.royaltybank.co.jp/fan-to-earn">https://www.royaltybank.co.jp/fan-to-earn</a>）</span></p>
+<p>　もうひとつは、「Royalty Bank MARKETPLACE」です。これは、アーティスト／クリエイターの作品が生み出す印税の分配請求権に投資するというマーケットプレイスで、投資した方は生み出された印税を一定期間受け取ることができます。音楽を例に説明しますと、アーティストが作った楽曲が向こう10年でどれぐらいの印税を生み出すかを試算できるアルゴリズムを弊社は設計しました。それによって、今後10年間生み出される印税の例えば30%を投資家に譲渡するというサービスを提供しています。</p>
+<p><strong>山岡</strong>　ファンは好きなアーティスト／クリエイターを主体的に応援でき、アーティスト／クリエイターにとっては、将来の印税を今使ってより多くの創造を生み出せるというわけですね。</p>
+<p><strong>五十嵐</strong>　はい。そのお金を創作活動に充てることが可能になりますので、投資は彼らの応援につながります。一方で、投資したファンは印税を受け取る権利を持っていますので、カラオケに行ってその曲を歌えば自分の収入が増えるという面白い経験ができます。印税を上げるためにはどのようにプロモーションすればいいのだろうといった視点をファンは培うことができ、アーティスト／クリエイターとファンの新たな関係性を築くことができるプラットフォームになっています。</p>
+<p style="text-align: center;"><img loading="lazy" class="size-medium wp-image-3642 aligncenter" src="https://humonyinter.com/wp/wp-content/uploads/2022/05/it.83.3-600x416.png" alt="" width="600" height="416" srcset="https://humonyinter.com/wp/wp-content/uploads/2022/05/it.83.3-600x416.png 600w, https://humonyinter.com/wp/wp-content/uploads/2022/05/it.83.3-831x576.png 831w, https://humonyinter.com/wp/wp-content/uploads/2022/05/it.83.3-768x532.png 768w, https://humonyinter.com/wp/wp-content/uploads/2022/05/it.83.3-1536x1065.png 1536w, https://humonyinter.com/wp/wp-content/uploads/2022/05/it.83.3.png 1590w" sizes="(max-width: 600px) 100vw, 600px" /><span style="color: #808080; font-size: 14px;">Royalty Bankホームページより（<a href="https://www.royaltybank.co.jp/rightsfi">https://www.royaltybank.co.jp/rightsfi</a>）</span></p>
+<p><strong>山岡</strong>　とてもユニークな事業ですね。そのような事業を展開するにあたって、ブロックチェーンはどのように活かされるのでしょうか？</p>
+<p><strong>五十嵐　</strong>お金にいろいろなロジックを組み込むことができるようになったところがブロックチェーンの面白さだと考えています。ブロックチェーンは、自分の好きなアーティストや作品にお金をこれだけ使ってきたといった記録を残せます。お金がファンジブルなものではなくなり、そういった記録を残せる＝色を付けられるものになることによって、ファンの熱量を流通に乗せられるという点で、ブロックチェーンはコンテンツとの相性が良いのかなと思っています。</p>
+<p><strong>山岡</strong>　ファンジブル――&#8221;交換可能性&#8221;と訳されますが、元来お金は、Aさんが持っている100円もBさんが持っている100円も同じで交換可能なものです。一方で、新しいトレンドとしてノン・ファンジブルで個別性のあるNFT（Non-Fungible Token）が注目されています。</p>
+<p><strong>五十嵐</strong>　NFTというのは簡単に言いますと鑑定証のようなものです。音声データや画像データはNFTではありませんが、誰が発行したものでどのような経路で今自分の手元にあるのかというのがわかるというのがNFTの大きなポイントなのかなと思っています。</p>
+<p><strong>山岡</strong>　鑑定証そのものはブロックチェーンを使って全員に同時にブロードキャストされるので、複製や偽造ができません。ですから、デジタル作品を最初に5部コピーを取ったとして、その5部が誰のものかを証明できるわけですよね。このNFTに代表されるように、ブロックチェーンという技術の応用によって新たにどんなことが可能になるのでしょうか？</p>
+<p><strong>五十嵐</strong>　いつNFTを手に入れたのかといった情報が記録されるように、ブロックチェーンはすべてを記録し、それを誰でも閲覧できるようになる技術です。例えば音楽アーティストとの関係でいえば、「このアーティストにこの日に出会って、この日にライブに参加した」といった紡いできた歴史がすべてブロックチェーンに記録されます。今までのアーティストとファンの関係は、ファンクラブの会員であるとかライブに行ったけれども残っているのはチケットの半券だけといったように解像度が粗いもので、その関係性は誰でも閲覧できるものではありませんでした。しかし、NFTなどブロックチェーンの仕組みを使うことで、関係性を誰でも閲覧できるようになるでしょう。</p>
+<p><img loading="lazy" class="size-medium wp-image-3643 aligncenter" src="https://humonyinter.com/wp/wp-content/uploads/2022/05/it.83.4-600x204.png" alt="" width="600" height="204" srcset="https://humonyinter.com/wp/wp-content/uploads/2022/05/it.83.4-600x204.png 600w, https://humonyinter.com/wp/wp-content/uploads/2022/05/it.83.4-831x283.png 831w, https://humonyinter.com/wp/wp-content/uploads/2022/05/it.83.4-768x262.png 768w, https://humonyinter.com/wp/wp-content/uploads/2022/05/it.83.4-1536x523.png 1536w, https://humonyinter.com/wp/wp-content/uploads/2022/05/it.83.4.png 1920w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p>それをベースに、熱狂的なファンの知見や意見をアーティスト／クリエイター側が吸収することによってより良いコンテンツが醸成できるのではないかと思います。ブロックチェーンは熱狂的なファンであるかどうかをある程度客観的に測れますので、例えば最近注目されているDAO（分散型自律組織）などを応用して熱狂的なファンの意見を反映させ、より良いコンテンツを作っていけたらと考えています。</p>
+<p><strong>山岡</strong>　DAOはWeb3（GAFAMなどに情報が集まりがちであり、その意味で中央集権的になりがちなWeb2.0に対し、ブロックチェーンを基盤に情報を分散管理するインターネットのあり方）の重要な要素として捉えられることも多いと思います。これも活用していくのですね。</p>
+<p><strong>五十嵐</strong>　今までの組織はピラミッド構造でしたが、DAOは誰にも同等の発言権を与えるような仕組みで、いわば直接民主制の組織です。クリエイティブの世界では、ピラミッド上層の恣意的な意見が文化を創る面もありますが、一方で下の方に良い知見があるのにそれを吸い上げられずにもったいないことになっているという状況もあります。ですから、全員の意見、とくに熱狂的なファンの意見が上がってきて民主的に議論できるようになると、新たなコンテンツが生まれていくのではないかと期待しています。</p>
+<p><strong>山岡</strong>　DAOはアーティスト／クリエーターとファンを、特定の主体を介さずに繋ぐことができるものですから、ファンは地球上のどこからでも、応援したいアーティスト／クリエーターを直接応援できるようになるでしょうね。</p>
+<p><strong>五十嵐</strong>　おっしゃるとおりです。まったく新しい関係性が築けると思います。</p>
+<p><strong>山岡</strong>　ありがとうございました。次回も引き続き五十嵐さんにお話を伺い、ブロックチェーンがカルチャーの世界をどのように変えていくのか考えてみたいと思います。<br />
+（4月28日対談　構成・文／鍋田吉郎）</p>
+
+<p style="coler:dimgrey;">◎本稿は、「<a href="https://humonyinter.com/" target="blanc" >ヒューモニー</a>」ウェブサイトに掲載された記事を転載したものです。</p>
+				</div>
+                        </div>
+						<div class="post__foot">
+							<a class="btn2" href="/">記事一覧へ戻る</a>
+							<div class="post__f-sns">
+								<div class="sns-set">
+									<div class="sns-set__item">
+                                        <a href="https://twitter.com/share?url=https://future-fintech.github.io/articles/20220610/&text=クリエイターとファンをつなぐデジタル技術&ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false"></a>
+									</div>
+									<div class="sns-set__item">
+										<div class="fb-like" data-href="https://future-fintech.github.io/articles/20220610/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+									</div>
+									<div class="sns-set__item">
+										<div class="fb-share-button" data-href="https://future-fintech.github.io/articles/20220610/" data-layout="button_count" data-size="small" data-mobile-iframe="true"></div>
+									</div>
+									<div class="sns-set__item">
+										<a href="https://b.hatena.ne.jp/entry/https://future-fintech.github.io/articles/20220610/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+										<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+									</div>
+									<div class="sns-set__item">
+										<a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="ja" data-save-url="https://future-fintech.github.io/articles/20220610/"></a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</article>
+                </div>
+                <aside class="l-content__secondary widet-area" role="complementary">
+					<div class="sidebar">
+						<section class="sidebar__widget">
+							<div class="profile-info">
+								<h2 class="profile-info__title">筆者ご紹介</h2>
+								<div class="profile-info__row">
+									<div class="profile-info__img-wrap"><img class="profile-info__img" src="/dist/img/fineye_yamaoka.jpg" alt="山岡 浩巳"></div>
+									<div class="profile-info__body">
+										<div class="profile-info__name"><strong class="profile-info__name-k">山岡 浩巳</strong> <span class="profile-info__name-kana">やまおかひろみ</span></div>
+										<div class="profile-info__pos">フューチャー株式会社 取締役</div>
+										<div class="profile-info__pos">フューチャー経済・金融研究所所長</div>
+										<p class="profile-info__dscr"> 日本銀行において、パリ事務所勤務、景気分析グループ長、参事役・大手銀行担当総括など政策分野に広く携わる。この間、バーゼル銀行監督委員会委員、国際決済銀行（BIS）市場委員会委員、同決済・市場インフラ委員会委員など国際機関の要職を歴任。経済・法律分野での著書・論文多数。米国ニューヨーク州弁護士。 </p>
+									</div>
+								</div>
+							</div>
+						</section>
+						<section class="sidebar__widget">
+							<div class="widget">
+								<h2 class="widget__title">Categories</h2>
+								<ul>
+                            
+                            
+                                
+                                
+                                    <li><a href="/category/column/">column (32)</a></li>
+                                
+                            
+                                
+                                
+                                    <li><a href="/category/report/">report (6)</a></li>
+                                
+                            
+                                
+                                
+                                    <li><a href="/category/lecture/">lecture (13)</a></li>
+                                
+                            
+                                
+                                
+                                    <li><a href="/category/others/">others (18)</a></li>
+                                
+                            
+								</ul>
+							</div>
+						</section>
+						<section class="sidebar__widget">
+							<div class="widget">
+								<h2 class="widget__title">Contact</h2>
+								<p class="widget__text">フューチャー株式会社<br>東京都品川区大崎1-2-2 <br>アートヴィレッジ大崎セントラルタワー</p>
+								<div><a class="mailto" href="https://www.future.co.jp/apps/contact/corp/future_fintech_entry.php">お問い合わせフォーム</a></div>
+							</div>
+						</section>
+					</div>
+				</aside>
+            </div>
+       </div>
+
+<!-- [ FOOTER-AREA ] -->
+		<footer id="colophon" class="footer l-footer">
+			<div class="footer__innr">
+			</div>
+			<p class="footer__copyright"><small>Copyright © <script>document.write((new Date()).getFullYear());</script> by Future Corporation</small></p>
+		</footer>
+		<!-- /[ FOOTER-AREA ] -->
+
+</div>
+
+<!-- [ SCRIPTS ] -->
+	<script src="/dist/js/app.bundle.js"></script>
+	<!-- /[ SCRIPTS ] -->
+	<!-- for Twitter -->
+	<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	<!-- for Pocket Button -->
+	<script type="text/javascript">
+	! function(d, i) {
+		if (!d.getElementById(i)) {
+			var j = d.createElement("script");
+			j.id = i;
+			j.src = "https://widgets.getpocket.com/v1/j/btn.js?v=1";
+			var w = d.getElementById(i);
+			d.body.appendChild(j);
+		}
+	}(document, "pocket-btn-js");
+	</script>
+  </body>
+</html>
