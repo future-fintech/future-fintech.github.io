@@ -6,6 +6,14 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>デジタル技術が切り拓くコンテンツ産業の未来</title>
+            <link>https://future-fintech.github.io/articles/20220617</link>
+            <description>クリエイターとファンを直接つなぐことを可能にするデジタル新技術は、現在カルチャー分野が直面しているさまざまな課題を解決し得ります。デジタル技術が切り拓くコンテンツ産業の未来の姿を、㈱ロイヤリティバンク取締役社長兼CTO五十嵐太清氏に訊きました（後編）。</description>
+            <pubDate>Fri, 17 Jun 2022 07:00:11 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>クリエイターとファンをつなぐデジタル技術</title>
             <link>https://future-fintech.github.io/articles/20220610</link>
             <description>暗号資産を誕生させたブロックチェーン。しかし、この技術の波及は金融分野だけにとどまりません。新たなデジタル技術がカルチャーの世界をどのように変えるのか――㈱ロイヤリティバンク取締役社長兼CTO五十嵐太清氏に訊きました（前編）。</description>
@@ -76,14 +84,6 @@
 </description>
             <pubDate>Fri, 22 Apr 2022 19:34:42 +0900</pubDate>
             <category>コラム</category>
-        </item>
-        
-        <item>
-            <title>【掲載のお知らせ】東京都 国際金融都市 note：国際金融都市・東京の実現に向けた「都と有識者等による合同ミーティング」を開催！」</title>
-            <link>https://future-fintech.github.io/articles/20220421</link>
-            <description>東京都 国際金融都市担当のnoteのご案内です。</description>
-            <pubDate>Thu, 21 Apr 2022 20:23:01 +0900</pubDate>
-            <category>others</category>
         </item>
         
     </channel>
