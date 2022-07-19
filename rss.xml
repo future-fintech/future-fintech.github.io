@@ -6,6 +6,14 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>デジタルマネーに取り組むブラジル</title>
+            <link>https://future-fintech.github.io/articles/20220719</link>
+            <description>デジタル化の中で注目を集める「中央銀行デジタル通貨」ですが、その解は必ずしも「発行する、しない」の二者択一ではありません。この分野に長く関わり続けている山岡浩巳氏が解説します。</description>
+            <pubDate>Tue, 19 Jul 2022 17:30:00 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>デジタル技術が切り拓くコンテンツ産業の未来</title>
             <link>https://future-fintech.github.io/articles/20220617</link>
             <description>クリエイターとファンを直接つなぐことを可能にするデジタル新技術は、現在カルチャー分野が直面しているさまざまな課題を解決し得ります。デジタル技術が切り拓くコンテンツ産業の未来の姿を、㈱ロイヤリティバンク取締役社長兼CTO五十嵐太清氏に訊きました（後編）。</description>
@@ -74,15 +82,6 @@
             <link>https://future-fintech.github.io/articles/20220427</link>
             <description>ロシアへの経済制裁が行われる中、ロシア中央銀行の金融市場対応が注目されています。元日銀金融市場局長として市場調節に関わってきた山岡浩巳が解説します。</description>
             <pubDate>Wed, 27 Apr 2022 20:32:51 +0900</pubDate>
-            <category>コラム</category>
-        </item>
-        
-        <item>
-            <title>デジタル・ドルに関する米国大統領令</title>
-            <link>https://future-fintech.github.io/articles/20220422</link>
-            <description>ロシアのウクライナ侵攻から約2週間後、米国のバイデン大統領はデジタル資産に関する大統領令を発出しました。その内容を山岡浩巳氏が解説します。
-</description>
-            <pubDate>Fri, 22 Apr 2022 19:34:42 +0900</pubDate>
             <category>コラム</category>
         </item>
         
