@@ -6,6 +6,14 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>ビッグデータを「取り戻す」には</title>
+            <link>https://future-fintech.github.io/articles/20220816</link>
+            <description>今や、私たちが日々生活をする中で、知らず知らずのうちに多くのデータが他者に収集され利用されています。この中で、人々の権利を守り、データ利活用への信頼を確保するにはどうすべきでしょうか。</description>
+            <pubDate>Tue, 16 Aug 2022 15:25:02 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>デジタルマネーに取り組むブラジル</title>
             <link>https://future-fintech.github.io/articles/20220719</link>
             <description>デジタル化の中で注目を集める「中央銀行デジタル通貨」ですが、その解は必ずしも「発行する、しない」の二者択一ではありません。この分野に長く関わり続けている山岡浩巳氏が解説します。</description>
@@ -75,14 +83,6 @@
             <description>TEC＋マイナビニュースへのデジタル通貨に関する寄稿記事です。</description>
             <pubDate>Wed, 11 May 2022 18:02:16 +0900</pubDate>
             <category>寄稿</category>
-        </item>
-        
-        <item>
-            <title>ロシアの金融政策は何をしているのか</title>
-            <link>https://future-fintech.github.io/articles/20220427</link>
-            <description>ロシアへの経済制裁が行われる中、ロシア中央銀行の金融市場対応が注目されています。元日銀金融市場局長として市場調節に関わってきた山岡浩巳が解説します。</description>
-            <pubDate>Wed, 27 Apr 2022 20:32:51 +0900</pubDate>
-            <category>コラム</category>
         </item>
         
     </channel>
