@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+
+<html lang="ja" dir="ltr">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+    <title>データの「匿名性」を考える　 | Future Fintech EyE - 金融の未来を語るブログ</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="description" content="デジタル化を私たちの暮らしに役立てる上では、爆発的に増加するデジタルデータの活用が鍵となります。同時に、データの多くは人々のプライバシーに関わっています。この両者の関係について、山岡浩巳が解説します。　">
+	<!-- [ OGP ] -->
+	<meta property="og:locale" content="ja_JP">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="データの「匿名性」を考える　">
+    <meta property="og:title" content="データの「匿名性」を考える　">
+    <meta name="twitter:title" content="データの「匿名性」を考える　">
+	<meta property="og:description" content="デジタル化を私たちの暮らしに役立てる上では、爆発的に増加するデジタルデータの活用が鍵となります。同時に、データの多くは人々のプライバシーに関わっています。この両者の関係について、山岡浩巳が解説します。　">
+	<meta name="twitter:description" content="デジタル化を私たちの暮らしに役立てる上では、爆発的に増加するデジタルデータの活用が鍵となります。同時に、データの多くは人々のプライバシーに関わっています。この両者の関係について、山岡浩巳が解説します。　">
+	<meta property="og:image" content="https://future-fintech.github.io/dist/img/ogp.png">
+    <meta property="og:url" content="https://future-fintech.github.io/articles/20220822/">
+	<!-- /[ OGP ] -->
+	<meta name="format-detection" content="telephone=no">
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="https://future-fintech.github.io/rss.xml" />
+	<link rel="stylesheet" href="/dist/css/style.css">
+	<link rel="stylesheet" href="/dist/css/style_custom.css">
+	<!-- Universal Analytics -->
+  <!--
+    <script>
+	(function(i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r;
+		i[r] = i[r] || function() {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date();
+		a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', 'アナリティクスIDを入力してください', 'auto');
+	ga('send', 'pageview');
+	</script>
+  -->
+	<!-- End Universal Analytics -->
+  </head>
+  <body>
+	<!-- Load Facebook SDK for JavaScript -->
+	<div id="fb-root"></div>
+	<script>
+	(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s);
+		js.id = id;
+		js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+	</script>
+
+<div class="l-wrap">
+
+<!-- [ HEADER-AREA ] -->
+		<header id="masthead" class="l-header header" role="banner">
+			<div class="header__innr">
+				<div class="header__branding">
+					<div class="header-logo">
+						<a class="header-logo__link" href="/" rel="home"><img class="header-logo__img" src="/dist/img/fineye_logo.png" alt="Future Fintech EYE - 金融の未来を語るブログ"></a>
+					</div>
+				</div>
+				<div class="header__catch">
+					<h1 class="header-catch__title site-title"><img class="header-catch__title-img" src="/dist/img/mv_title@2x.png" srcset="/dist/img/mv_title.png 838w, /dist/img/mv_title@2x.png 1676w" sizes="90vw" alt="Future Fintech EYE"></h1>
+					<div class="header-catch__dscr site-description"><img class="header-catch__dscr-img" src="/dist/img/mv_description@2x.png" srcset="/dist/img/mv_description.png 495w, /dist/img/mv_description@2x.png 990w" sizes="(max-width: 700px) 495px, 70vw" alt="金融の未来を語るブログ"></div>
+				</div>
+				<div class="header__sns">
+					<div class="sns-set">
+						<div class="sns-set__item">
+							<a href="https://twitter.com/share?url=https://future-fintech.github.io/&text=Future Fintech EYE - 金融の未来を語るブログ&ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false"></a>
+						</div>
+						<div class="sns-set__item">
+							<div class="fb-like" data-href="https://future-fintech.github.io/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+						</div>
+						<div class="sns-set__item">
+							<div class="fb-share-button" data-href="https://future-fintech.github.io/" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.tam-tam.co.jp%2Ftipsnote%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">シェア</a></div>
+						</div>
+						<div class="sns-set__item">
+							<a href="https://b.hatena.ne.jp/entry/https://future-fintech.github.io/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+							<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+						</div>
+						<div class="sns-set__item">
+							<a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="ja" data-save-url="https://future-fintech.github.io/"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="header__bg"></div>
+		</header>
+		<!-- /[ HEADER-AREA ] -->
+
+<!-- [[ CONTENT-AREA ]] -->
+        
+		<div id="content" class="l-content">
+			<div class="l-content__innr">
+				<div class="l-content__primary content-area">
+                    <article class="post">
+						<div class="post__head">
+							<div class="post__meta">
+                                <div class="post__date--l">2022/08/22</div>
+                                <div class="post__category">category: <span>column</span></div>
+							</div>
+							<h1 class="post__title--l">データの「匿名性」を考える　</h1>
+							<p class="post__description--l">デジタル化を私たちの暮らしに役立てる上では、爆発的に増加するデジタルデータの活用が鍵となります。同時に、データの多くは人々のプライバシーに関わっています。この両者の関係について、山岡浩巳が解説します。　</p>
+						</div>
+						<div class="post__body">
+                            <style><!--
+	img.aligncenter {
+  display: block;
+  margin: 0 auto !important; }
+	p{
+  text-indent: 1em;
+}
+	p.post__description--l{
+  text-indent: 0em;
+}	
+--></style>
+	<div class="column-article-body">
+										<p><img class="size-full wp-image-3858 aligncenter" src="https://humonyinter.com/wp/wp-content/uploads/2022/07/it.88.1.png" alt="" width="209" height="252" /></p>
+<p>自動運転のための人工知能（AI）を賢くするには、質の良いデータをたくさん学習させる必要があります。近年では、GPSやドライビングレコーダーの発達が示すように、自動車自体がセンサーとなって飛躍的に多くのデータを取集できるようになっています。「人類が歴史上生み出したデータの9割以上は最近2年間だけで生み出されている」（SINTEF、2013）（注）と言われるように、デジタル媒体の発達がデジタルデータを増やし、これがデジタル技術のさらなる発達に結び付くという、プラスの循環が期待できるわけです。</p>
+<p style="text-align: center;">フィンランドの自動運転車<br />
+<img loading="lazy" class="size-full wp-image-3859 aligncenter" src="https://humonyinter.com/wp/wp-content/uploads/2022/07/it.88.2.png" alt="" width="454" height="340" /><span style="color: #808080; font-size: 14px;">注：</span><a style="font-size: 14px;" href="https://www.sintef.no/en/publications/publication/1031676/" target="_blank" rel="noopener">https://www.sintef.no/en/publications/publication/1031676/</a></p>
+<h4>「パーソナルデータ」の問題</h4>
+<p>一方で、画像として収集する現実の路上データには、個人の顔や自動車のナンバープレートが映り込むことは避けられません。そういった画像がAIの学習に一切使えなければ、「渋滞の中でも安全な自動運転車」を作ることも難しくなります。</p>
+<p>このような問題は他の分野でも共通しています。例えば、医療の発達や感染症対策には数多くの患者のデータを集める必要があります。しかし、それぞれの人々にとって、健康データは極めてプライバシー性の高いものです。</p>
+<p>データの中には、天候・気象などの自然データに代表されるように、プライバシーと関わりのないものももちろんあります。しかし、最近急増しているデータの多くは機器としてはスマートフォンやドライビングレコーダー、活動としてはSNSやeコマースなど、人間の行動の中から生み出されています。このような「パーソナルデータ」を、プライバシーに配慮しながらどう活用できるかは、人権を尊重する民主主義国がデジタル時代にも繁栄を続けられるかを大きく左右します。</p>
+<h4>Suicaを巡る出来事と「匿名加工情報」</h4>
+<p><a href="https://future-fintech.github.io/articles/20220816/" target="_blank" rel="noopener">前回</a>の連載でも紹介したように、個人のプライバシーの問題にとりわけ敏感な日本では、データのプライバシーは大きな論点となり続けてきました。その象徴的な出来事が、2013年に生じた、JR東日本による電子マネー「Suica」のデータの日立製作所への提供を巡る出来事でした。</p>
+<p>Suicaなどの「交通系電子マネー」は、切符売り場や改札の混雑緩和などに大きな貢献を果たしていますが、何よりもその大きな可能性はデータにあります。例えば、Suicaの定期券を購入する場合、購入者は性別や年齢などのデータを入力します。このことは逆に言えば、JR東日本はSuicaを通じて、「何歳の人がどの駅の改札を何時に通過した」といったデータを収集できるわけです。このようなデータは「駅ナカ」開発などだけではなく、地域活性化への貢献など幅広い活用が可能と考えられます。</p>
+<p>2013年7月、JR東日本がこのようなSuicaデータを日立製作所に提供しようとしたところ、多くの利用者からプライバシー保護などについて不安視する声が上がり、結局、提供が断念されるという出来事が起こりました。JR東日本は、提供しようとしたSuicaのデータからあらかじめ氏名や電話番号を削除するなどの措置を講じていましたが、この点に関する説明が十分でなかったこともあり、利用者の不安が払拭されませんでした。</p>
+<p>この出来事がきっかけとなり、2015年に「個人情報保護法」の大きな改正（2015年9月公布）が行われました。この改正の中核は、新たに、個人を識別できないように加工された「匿名加工情報」というカテゴリーを設け、その流通や利活用を促進する点にありました。</p>
+<p style="text-align: center;"><img loading="lazy" class="alignnone size-full wp-image-3860 aligncenter" src="https://humonyinter.com/wp/wp-content/uploads/2022/07/it.88.3.png" alt="" width="434" height="140" /><span style="color: #808080; font-size: 14px;">資料：個人情報保護委員会</span></p>
+<p>個人情報保護委員会は、このような「匿名加工情報」を作る方法についてのガイドラインを示し、明確化を図っています。この中で、匿名加工情報を作るためには、単にパーソナルデータから名前や顔写真、指紋などを消去しただけでは不十分であり、例えば「年齢116歳」といった、個人を類推可能なデータも消さなければならないことなどが記載されています。</p>
+<p>その後、個人情報保護法はさらに改正され、現在では企業内部での利用を想定した、パーソナルデータと匿名加工情報との中間にある「仮名加工情報」というカテゴリーも設けられています。</p>
+<h4>期待されるビッグデータの利活用</h4>
+<p>このようにデータの匿名性確保を巡る法律が整備されるもとで、さまざまなデータ活用の取り組みも進みつつあります。例えば、前述のJR東日本は、Suicaのデータを活用した「駅カルテ」などのサービスを開始しているほか、数多くの興味深い分析を公表するようになっています。</p>
+<p style="text-align: center;">通勤利用者数と新型コロナウィルス感染者数の推移<img loading="lazy" class="size-full wp-image-3861 aligncenter" src="https://humonyinter.com/wp/wp-content/uploads/2022/07/it.88.4.png" alt="" width="476" height="257" /><span style="color: #808080; font-size: 14px;">出所：JR東日本　<a href="https://www.jreast.co.jp/press/2021/20211104_ho04.pdf" target="_blank" rel="noopener">https://www.jreast.co.jp/press/2021/20211104_ho04.pdf</a></span></p>
+<p>急速に増加するパーソナルデータをどのように活用できるかは、デジタル時代における人々の幸福や経済の発展を大きく左右します。この中で留意すべきは、人権やプライバシーへの配慮が大きくない国々の方が、パーソナルデータの活用が短期的には急速に進み得ることです。</p>
+<p>しかし、人々は中長期的には、生活が一見便利になっても、その背景で自分のプライバシーが危機に晒されているような国には住みたがらないでしょう。</p>
+<p>日本を含む先進国としては、個人のプライバシーを守り、データの利用に関する信頼を確保ながら、パーソナルデータの利活用を進めていくことが求められます。</p>
+<p style="coler:dimgrey;">◎本稿は、「<a href="https://humonyinter.com/" target="blanc" >ヒューモニー</a>」ウェブサイトに掲載された記事を転載したものです。</p>
+                        </div>
+						<div class="post__foot">
+							<a class="btn2" href="/">記事一覧へ戻る</a>
+							<div class="post__f-sns">
+								<div class="sns-set">
+									<div class="sns-set__item">
+                                        <a href="https://twitter.com/share?url=https://future-fintech.github.io/articles/20220822/&text=データの「匿名性」を考える　&ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false"></a>
+									</div>
+									<div class="sns-set__item">
+										<div class="fb-like" data-href="https://future-fintech.github.io/articles/20220822/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+									</div>
+									<div class="sns-set__item">
+										<div class="fb-share-button" data-href="https://future-fintech.github.io/articles/20220822/" data-layout="button_count" data-size="small" data-mobile-iframe="true"></div>
+									</div>
+									<div class="sns-set__item">
+										<a href="https://b.hatena.ne.jp/entry/https://future-fintech.github.io/articles/20220822/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+										<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+									</div>
+									<div class="sns-set__item">
+										<a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="ja" data-save-url="https://future-fintech.github.io/articles/20220822/"></a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</article>
+                </div>
+                <aside class="l-content__secondary widet-area" role="complementary">
+					<div class="sidebar">
+						<section class="sidebar__widget">
+							<div class="profile-info">
+								<h2 class="profile-info__title">筆者ご紹介</h2>
+								<div class="profile-info__row">
+									<div class="profile-info__img-wrap"><img class="profile-info__img" src="/dist/img/fineye_yamaoka.jpg" alt="山岡 浩巳"></div>
+									<div class="profile-info__body">
+										<div class="profile-info__name"><strong class="profile-info__name-k">山岡 浩巳</strong> <span class="profile-info__name-kana">やまおかひろみ</span></div>
+										<div class="profile-info__pos">フューチャー株式会社 取締役</div>
+										<div class="profile-info__pos">フューチャー経済・金融研究所所長</div>
+										<p class="profile-info__dscr"> 日本銀行において、パリ事務所勤務、景気分析グループ長、参事役・大手銀行担当総括など政策分野に広く携わる。この間、バーゼル銀行監督委員会委員、国際決済銀行（BIS）市場委員会委員、同決済・市場インフラ委員会委員など国際機関の要職を歴任。経済・法律分野での著書・論文多数。米国ニューヨーク州弁護士。 </p>
+									</div>
+								</div>
+							</div>
+						</section>
+						<section class="sidebar__widget">
+							<div class="widget">
+								<h2 class="widget__title">Categories</h2>
+								<ul>
+                            
+                            
+                                
+                                
+                                    <li><a href="/category/column/">column (36)</a></li>
+                                
+                            
+                                
+                                
+                                    <li><a href="/category/report/">report (6)</a></li>
+                                
+                            
+                                
+                                
+                                    <li><a href="/category/lecture/">lecture (13)</a></li>
+                                
+                            
+                                
+                                
+                                    <li><a href="/category/others/">others (18)</a></li>
+                                
+                            
+								</ul>
+							</div>
+						</section>
+						<section class="sidebar__widget">
+							<div class="widget">
+								<h2 class="widget__title">Contact</h2>
+								<p class="widget__text">フューチャー株式会社<br>東京都品川区大崎1-2-2 <br>アートヴィレッジ大崎セントラルタワー</p>
+								<div><a class="mailto" href="https://www.future.co.jp/apps/contact/corp/future_fintech_entry.php">お問い合わせフォーム</a></div>
+							</div>
+						</section>
+					</div>
+				</aside>
+            </div>
+       </div>
+
+<!-- [ FOOTER-AREA ] -->
+		<footer id="colophon" class="footer l-footer">
+			<div class="footer__innr">
+			</div>
+			<p class="footer__copyright"><small>Copyright © <script>document.write((new Date()).getFullYear());</script> by Future Corporation</small></p>
+		</footer>
+		<!-- /[ FOOTER-AREA ] -->
+
+</div>
+
+<!-- [ SCRIPTS ] -->
+	<script src="/dist/js/app.bundle.js"></script>
+	<!-- /[ SCRIPTS ] -->
+	<!-- for Twitter -->
+	<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	<!-- for Pocket Button -->
+	<script type="text/javascript">
+	! function(d, i) {
+		if (!d.getElementById(i)) {
+			var j = d.createElement("script");
+			j.id = i;
+			j.src = "https://widgets.getpocket.com/v1/j/btn.js?v=1";
+			var w = d.getElementById(i);
+			d.body.appendChild(j);
+		}
+	}(document, "pocket-btn-js");
+	</script>
+  </body>
+</html>

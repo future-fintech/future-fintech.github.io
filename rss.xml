@@ -6,6 +6,14 @@
         <description>フューチャー経済・金融研究所によるBlogです。内外の経済金融を巡る注目される動向、とりわけ、金融と、AIやビッグデータ、IoT、ブロックチェーン、XaaSなどのイノベーションや情報技術がオーバーラップする分野に焦点を当てて紹介していきます。また、カンファレンスへの登壇や寄稿、関連資料などの情報も適宜掲載します。今やデジタル技術抜きには経済金融の動向を把握することが難しくなっている中、 両者をカバーするフューチャーとして、最先端の動向をわかりやすくお伝えいたします。</description>
         
         <item>
+            <title>データの「匿名性」を考える　</title>
+            <link>https://future-fintech.github.io/articles/20220822</link>
+            <description>デジタル化を私たちの暮らしに役立てる上では、爆発的に増加するデジタルデータの活用が鍵となります。同時に、データの多くは人々のプライバシーに関わっています。この両者の関係について、山岡浩巳が解説します。　</description>
+            <pubDate>Mon, 22 Aug 2022 15:31:51 +0900</pubDate>
+            <category>コラム</category>
+        </item>
+        
+        <item>
             <title>ビッグデータを「取り戻す」には</title>
             <link>https://future-fintech.github.io/articles/20220816</link>
             <description>今や、私たちが日々生活をする中で、知らず知らずのうちに多くのデータが他者に収集され利用されています。この中で、人々の権利を守り、データ利活用への信頼を確保するにはどうすべきでしょうか。</description>
@@ -75,14 +83,6 @@
             <description>ロシアのウクライナ侵攻に伴う経済制裁が注目を集めています。デジタル時代の経済制裁の特徴について、山岡浩巳が解説します。</description>
             <pubDate>Fri, 13 May 2022 20:15:18 +0900</pubDate>
             <category>コラム</category>
-        </item>
-        
-        <item>
-            <title>【寄稿掲載のお知らせ】TEC＋マイナビニュース【連載】「国内のデジタル通貨の動向」</title>
-            <link>https://future-fintech.github.io/articles/20220511</link>
-            <description>TEC＋マイナビニュースへのデジタル通貨に関する寄稿記事です。</description>
-            <pubDate>Wed, 11 May 2022 18:02:16 +0900</pubDate>
-            <category>寄稿</category>
         </item>
         
     </channel>
